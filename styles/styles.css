@@ -1,0 +1,18 @@
+/* .accordion-button, .accordion-button:focus {
+  outline: none;
+  box-shadow: none;
+  background-color: white !important;
+
+} */
+
+.accordion-body a {
+  text-decoration: none;
+}
+
+#submit-text {
+  color:transparent
+}
+
+#services_link {
+  margin-right: 10px !important;
+}
